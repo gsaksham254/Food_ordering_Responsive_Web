@@ -4,6 +4,12 @@ Description:
 
 This project is a fully responsive web application built with HTML, CSS, JavaScript, and jQuery for animation and responsiveness. It utilizes Normalize.css for consistent baseline styles across browsers, the Responsive Grid System (http://www.responsivegridsystem.com/) for flexible layout, and CSS media queries for adaptation to various screen sizes.
 
+
+![Screenshot (341)](https://github.com/gsaksham254/Food_ordering_Responsive_Web/assets/109668185/fd5adefd-7fa3-4e07-9721-fd5f13d6db54)
+![Screenshot (342)](https://github.com/gsaksham254/Food_ordering_Responsive_Web/assets/109668185/e2221d62-b53b-4fbd-b0c4-ae4930be5b6f)
+![Screenshot (343)](https://github.com/gsaksham254/Food_ordering_Responsive_Web/assets/109668185/ad91ec40-e43c-4033-92ee-1b4f92d1f9b5)
+![Screenshot (344)](https://github.com/gsaksham254/Food_ordering_Responsive_Web/assets/109668185/c510a676-0fc6-4c26-a744-78417900b162)
+
 Features:
 
 User-friendly interface: The web app is designed to be intuitive and easy to use, enabling users to browse through fruit options, add items to their cart, and complete the checkout process seamlessly.
